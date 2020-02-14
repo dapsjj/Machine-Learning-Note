@@ -229,7 +229,9 @@ K的取法：
 
 我们当然希望检索结果（分类结果）的Precision越高越好，同时Recall也越高越好，但事实上这两者在某些情况下有矛盾的。比如极端情况下，我们只搜索出了一个结果，且是准确的（分类后的正确实例只有一个，且该实例原本就是正实例），那么Precision就是100%，但是Recall就会很低；而如果我们把所有结果都返回（所有的结果都被分类为正实例），那么Recall是100%，但是Precision就会很低。因此在不同的场合中需要自己判断希望Precision比较高还是Recall比较高。如果是做实验研究，可以绘制Precision-Recall曲线来帮助分析。
 
-
+综合评价指标F-Measure  
+Precision和Recall指标有时候会出现矛盾的情况，这样就需要综合考虑他们，最常见的方法就是F-Measure（又称为F-Score）。F-Score是Precision和Recall的加权调和平均：  
+![综合评价指标F-Measure](./image/综合评价指标F-Measure.jpg)  
 
 
 
