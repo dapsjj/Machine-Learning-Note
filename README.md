@@ -2,6 +2,18 @@
 # Machine-Learning-Note(机器学习笔记)
 
 * [机器学习“判定模型”和“生成模型”有什么区别？](https://github.com/dapsjj/Machine-Learning-Note#机器学习判定模型和生成模型有什么区别)
+* [理解支持向量机](https://github.com/dapsjj/Machine-Learning-Note#理解支持向量机)
+* [理解随机森林](https://github.com/dapsjj/Machine-Learning-Note#理解随机森林)
+* [理解KNN](https://github.com/dapsjj/Machine-Learning-Note#理解knn)
+* [有监督学习、无监督学习、半监督学习的区别](https://github.com/dapsjj/Machine-Learning-Note#有监督学习无监督学习半监督学习的区别)
+* [有监督学习建模步骤](https://github.com/dapsjj/Machine-Learning-Note#有监督学习建模步骤)
+* [常用分类算法优缺点对比](https://github.com/dapsjj/Machine-Learning-Note#常用分类算法优缺点对比)
+* [分类算法的评估方法](https://github.com/dapsjj/Machine-Learning-Note#分类算法的评估方法)
+* [哪些机器学习算法不需要做归一化处理？](https://github.com/dapsjj/Machine-Learning-Note#哪些机器学习算法不需要做归一化处理)
+* [树形结构为什么不需要归一化？](https://github.com/dapsjj/Machine-Learning-Note#树形结构为什么不需要归一化)
+
+
+
 
 
 
