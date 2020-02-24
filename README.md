@@ -14,7 +14,7 @@
 * [欧氏距离和曼哈顿距离区别](https://github.com/dapsjj/Machine-Learning-Note#欧氏距离和曼哈顿距离区别)
 * [逻辑回归介绍](https://github.com/dapsjj/Machine-Learning-Note#逻辑回归介绍)
 * [逻辑回归为什么要对特征进行离散化](https://github.com/dapsjj/Machine-Learning-Note#逻辑回归为什么要对特征进行离散化)
-
+* [LR和SVM的联系与区别](https://github.com/dapsjj/Machine-Learning-Note#LR和SVM的联系与区别)
 
 
 
