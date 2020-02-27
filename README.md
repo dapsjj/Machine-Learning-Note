@@ -18,6 +18,7 @@
 * [overfitting怎么解决?](https://github.com/dapsjj/Machine-Learning-Note#overfitting怎么解决)
 * [什么是熵?](https://github.com/dapsjj/Machine-Learning-Note#什么是熵)
 * [什么是梯度下降?](https://github.com/dapsjj/Machine-Learning-Note#什么是梯度下降)
+* [线性回归与逻辑回归的区别与联系](https://github.com/dapsjj/Machine-Learning-Note#线性回归与逻辑回归的区别与联系)
 
 
 
