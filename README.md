@@ -19,9 +19,7 @@
 * [什么是熵?](https://github.com/dapsjj/Machine-Learning-Note#什么是熵)
 * [什么是梯度下降?](https://github.com/dapsjj/Machine-Learning-Note#什么是梯度下降)
 * [线性回归与逻辑回归的区别与联系](https://github.com/dapsjj/Machine-Learning-Note#线性回归与逻辑回归的区别与联系)
-
-
-
+* [机器学习中的正则化是什么意思？](https://github.com/dapsjj/Machine-Learning-Note#机器学习中的正则化是什么意思)
 
 
 
@@ -512,6 +510,10 @@ LR工业上一般指Logistic Regression(逻辑回归)而不是Linear Regression(
 个人感觉逻辑回归和线性回归首先都是广义的线性回归，其次经典线性模型的优化目标函数是最小二乘，而逻辑回归则是似然函数，另外线性回归在整个实数域范围内进行预测，敏感度一致，而分类范围，需要在[0,1]。逻辑回归就是一种减小预测范围，将预测值限定为[0,1]间的一种回归模型，因而对于这类问题来说，逻辑回归的鲁棒性比线性回归的要好。    
 
 逻辑回归的模型本质上是一个线性回归模型，逻辑回归都是以线性回归为理论支持的。但线性回归模型无法做到sigmoid的非线性形式，sigmoid可以轻松处理0/1分类问题。
+
+
+## 机器学习中的正则化是什么意思？
+经常在各种文章或资料中看到正则化，比如说，一般的目标函数都包含下面两项  
 
 
 
