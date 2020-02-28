@@ -521,7 +521,7 @@ LR工业上一般指Logistic Regression(逻辑回归)而不是Linear Regression(
 但一直没有一篇好的文章理清到底什么是正则化？  
 
 说到正则化，得先从过拟合问题开始谈起。  
-1)  The Problem of Overfitting(过拟合问题)  
+The Problem of Overfitting(过拟合问题)  
 拟合问题举例-线性回归之房价问题：  
 
 a) 欠拟合(underfit, 也称High-bias，图片来源：斯坦福大学机器学习第七课“正则化”)  
